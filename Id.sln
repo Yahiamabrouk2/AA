@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33723.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "duend", "duend\duend.csproj", "{1B787123-C6B2-4705-A4E9-431B131610B1}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "weatherapi", "weatherapi\weatherapi.csproj", "{43F897CA-0413-41C4-81AC-F5FD663E7830}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WeatherMvc", "WeatherMvc\WeatherMvc.csproj", "{147C8E32-0AAD-4794-A2D7-F7D6E22F3EEC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1B787123-C6B2-4705-A4E9-431B131610B1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1B787123-C6B2-4705-A4E9-431B131610B1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1B787123-C6B2-4705-A4E9-431B131610B1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1B787123-C6B2-4705-A4E9-431B131610B1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{43F897CA-0413-41C4-81AC-F5FD663E7830}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{43F897CA-0413-41C4-81AC-F5FD663E7830}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{43F897CA-0413-41C4-81AC-F5FD663E7830}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{43F897CA-0413-41C4-81AC-F5FD663E7830}.Release|Any CPU.Build.0 = Release|Any CPU
+		{147C8E32-0AAD-4794-A2D7-F7D6E22F3EEC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{147C8E32-0AAD-4794-A2D7-F7D6E22F3EEC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{147C8E32-0AAD-4794-A2D7-F7D6E22F3EEC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{147C8E32-0AAD-4794-A2D7-F7D6E22F3EEC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {754F62BA-CF19-4B39-8234-C26822578588}
+	EndGlobalSection
+EndGlobal

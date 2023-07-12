@@ -1,0 +1,20 @@
+{
+  "version": 2,
+  "dgSpecHash": "5wA7GvjbHJ3YGI8LS0rnu0Fxg0m44kXv9/IBPYHb6I04+3DDdVT4H/53LuAO0BxbKELLVdhwo75ZdfZrccaJog==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\YahyaElMabroukيحي\\Desktop\\duendee\\Id\\WeatherMvc\\WeatherMvc.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\YahyaElMabroukيحي\\.nuget\\packages\\identitymodel\\6.1.0\\identitymodel.6.1.0.nupkg.sha512",
+    "C:\\Users\\YahyaElMabroukيحي\\.nuget\\packages\\microsoft.aspnetcore.authentication.openidconnect\\7.0.8\\microsoft.aspnetcore.authentication.openidconnect.7.0.8.nupkg.sha512",
+    "C:\\Users\\YahyaElMabroukيحي\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
+    "C:\\Users\\YahyaElMabroukيحي\\.nuget\\packages\\microsoft.identitymodel.jsonwebtokens\\6.15.1\\microsoft.identitymodel.jsonwebtokens.6.15.1.nupkg.sha512",
+    "C:\\Users\\YahyaElMabroukيحي\\.nuget\\packages\\microsoft.identitymodel.logging\\6.15.1\\microsoft.identitymodel.logging.6.15.1.nupkg.sha512",
+    "C:\\Users\\YahyaElMabroukيحي\\.nuget\\packages\\microsoft.identitymodel.protocols\\6.15.1\\microsoft.identitymodel.protocols.6.15.1.nupkg.sha512",
+    "C:\\Users\\YahyaElMabroukيحي\\.nuget\\packages\\microsoft.identitymodel.protocols.openidconnect\\6.15.1\\microsoft.identitymodel.protocols.openidconnect.6.15.1.nupkg.sha512",
+    "C:\\Users\\YahyaElMabroukيحي\\.nuget\\packages\\microsoft.identitymodel.tokens\\6.15.1\\microsoft.identitymodel.tokens.6.15.1.nupkg.sha512",
+    "C:\\Users\\YahyaElMabroukيحي\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
+    "C:\\Users\\YahyaElMabroukيحي\\.nuget\\packages\\system.identitymodel.tokens.jwt\\6.15.1\\system.identitymodel.tokens.jwt.6.15.1.nupkg.sha512",
+    "C:\\Users\\YahyaElMabroukيحي\\.nuget\\packages\\system.security.cryptography.cng\\4.5.0\\system.security.cryptography.cng.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
